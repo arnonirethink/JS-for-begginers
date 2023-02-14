@@ -1,0 +1,5 @@
+// comentario oioioioioi
+/* comentario
+de duas
+ou mais 
+linhas */
